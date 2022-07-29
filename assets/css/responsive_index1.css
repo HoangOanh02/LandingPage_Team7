@@ -88,6 +88,10 @@
         overflow-x: hidden;
     }
 
+    .footer__list{
+        overflow-x: hidden;
+    }
+
     .footer__list-item {
         white-space: nowrap;
     }
